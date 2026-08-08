@@ -67,7 +67,7 @@ The first analysis groups the dataset by company and calculates the total number
 
 ## 4. [Analysis from Query 4]
 
-![Query 4](4.png)
+![Query 4](screenshots/4.png)
 
 ### Result
 
